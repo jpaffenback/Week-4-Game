@@ -1,0 +1,32 @@
+.jumbotron{
+    text-align: center;
+    float:right;
+
+}
+
+.cystals{
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto; 
+   width:25%;
+    
+}
+
+.crystal1{
+     margin:5px;
+     float:left;
+     width:25%;
+}
+.crystal2{
+    float:left;
+    width:25%;
+    
+}
+.crystal3{
+    float:left;
+    width:25%;
+}
+.crystal4{
+    float:left;
+    width:25%;
+}
